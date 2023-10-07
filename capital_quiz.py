@@ -167,4 +167,5 @@ def game_hard():
     else:
         print(f"Quiz finished! You got {points_gotten} right out of {points_total} questions.")
 
-game_mode()
+if __name__ == "__main__":
+    game_mode()
