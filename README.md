@@ -1,7 +1,7 @@
 # python-capital-quiz
 python capital quiz
 
-Features:  
+features:  
 -you can change the countries/capitals directory  
 -shuffled countries-capitals directory each game  
 -easy (with hints) and hard mode (without hints)  
